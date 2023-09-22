@@ -1,8 +1,8 @@
 # Lecturna-LandingPage
-Lecturna is a Children's Coding Course for ages 7-17. The topics taught at Lecturna are, Web Programming, Mobile Programming, Text Programming (Roblox) and Visual Programming (Scratch). Currently, Lecturna provides courses online.
+Lecturna is a Children's Coding Course for ages 7-17. The topics taught at Lecturna are Web Programming, Mobile Programming, Text Programming (Roblox), and Visual Programming (Scratch). Currently, Lecturna provides courses online.
 
 
-This is our Multimedia Programming Foundation's final assignment, which we are asked to design and code a landing page for lecturna
+This is our Multimedia Programming Foundation's final assignment, in which we are asked to design and code a landing page for Lecturna
 
 
 Member/Contributor:
