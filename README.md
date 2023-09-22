@@ -11,4 +11,4 @@ Nicholas Theodore(design and front end): https://github.com/ntsunib28
 
 Nicholas Abel Williem(design and front end): https://github.com/xcL0701
 
-William Ananda Widjaya(design and front end): https://github.com/Nutchyk
+William Ananda Widjaya(design and front end): https://github.com/WilliWidjaya
